@@ -9,3 +9,9 @@ Limbs are discretized with tunable mass-spring-damper ball joints to approximate
 Each limb has a feedback controller based on the Nitto 2-axis bend sensor. A CPG (central pattern generator) is used for gait level control (e.g., walking and turning patterns), mimicing the process in biological systems.
 
 Optimization is performed over step size. All simulation is done using Simulink.
+
+
+To run:
+run the .m parameter files first to load params.
+Then, run either .slx file for walking or turning gaits.
+Running on "accelerator" mode is recommended to significantly reduce computation time.
