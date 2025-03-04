@@ -15,3 +15,6 @@ To run:
 run the .m parameter files first to load params.
 Then, run either .slx file for walking or turning gaits.
 Running on "accelerator" mode is recommended to significantly reduce computation time.
+
+
+Contact for report and additional information/questions: lmplotte@alumni.cmu.edu
